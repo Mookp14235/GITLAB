@@ -1,7 +1,11 @@
 #include <stdio.h>
 void main()
 {
-  char Name[30][40] = {"MookP Nut", "B", "Ying Phakpon","Chai Chanchai", "Yong Boonsith", "Kitti Karndee"};
+<<<<<<< HEAD
+  char Name[30][40] = {"MookP Nut", "Mary McBeth", "B","Chai Chanchai", "Yong Boonsith", "Kitti Karndee"};
+=======
+  char Name[30][40] = {"Nut Mookp", "A, "Ying Phakpon","Chai Chanchai", "Yong Boonsith", "Kitti Karndee"};
+>>>>>>> a863380eda70ea3e5d2d7b9fed384e1233683672
   int ID[30] = {5301, 5302, 5303, 5304, 5305, 5306};
   float GPA[30] = {2.73, 2.35, 3.65, 3.24, 1.32, 3.26};
   int N = 6, i;
